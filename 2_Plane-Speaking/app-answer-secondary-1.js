@@ -1,12 +1,12 @@
-var xPlanes = [
+var xPlanes = {
   "X-1",
   "X-3",
   "X-15",
   "X-29",
   "X-31",
   "X-37",
-  "X-45"
-];
+  "X-45",
+};
 
 // Now that we have our array of planes, we need to add elements to our DOM
 // for each one.
