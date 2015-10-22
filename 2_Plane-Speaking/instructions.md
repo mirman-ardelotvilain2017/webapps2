@@ -11,7 +11,6 @@ There are other ways of writing `for` loops and we will use some of them. Howeve
 
 ## Primary Objective
 Using the `document` methods we learned about in Lesson 1 and a `for` loop, use `app.js` to add a list item (`<li>`) for each experimental aircraft in our array.
-
 ## Secondary Objectives
 
 ### Chaos→Order
